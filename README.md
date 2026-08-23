@@ -1,4 +1,4 @@
-# Smart Power Bank Health Monitoring using ESP32 and Machine Learning
+# Smart Battery Health Monitoring using ESP32 and Machine Learning
 
 ## Overview
 
